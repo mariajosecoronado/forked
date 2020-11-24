@@ -1,0 +1,44 @@
+{
+
+  "usuarios": [
+
+    {
+      "id": 1,
+      "nombre": "Sara",
+      "apellidos": "Londoño",
+      "username": "scaslon@gmail.com",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "id": 2,
+      "nombre": "Felipe",
+      "apellidos": "Llano",
+      "username": "fllano@gmail.com",
+      "password": "01cfcd4f6b8770febfb40cb906715822"
+    }
+
+  ],
+
+  "RECETAS": [
+
+    {
+
+      "id": 1,
+
+      "Ingredientes": "",
+
+      "Tipo_receta": "",
+
+      "Preparacion": "",
+
+      "Tiempo": "",
+
+      "Video": "",
+
+      "Fecha": ""
+
+    }
+
+  ]
+
+}

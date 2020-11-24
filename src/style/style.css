@@ -1,0 +1,445 @@
+.titulo {
+  margin-top: 10px;
+  background-color: #33ff46;
+  padding: 10px;
+  border: 1px solid #33ff46;
+  border-radius: 50px;
+  color: rgb(70, 70, 70);
+}
+
+.encabezado{
+display: flex;
+justify-content: space-evenly;
+}
+.edit-public {
+  width: 500px;
+  height: 200px;
+}
+.nombredereceta {
+  background-color: #14dd28;
+  padding: 10px;
+}
+.menu {
+  background-color: #14dd28;
+}
+.Perfil-enlace {
+  color: gray;
+}
+.derec {
+  display: flex;
+  align-items: rig;
+}
+.per {
+  display: flex;
+  justify-content: space-evenly;
+}
+.punt {
+  display: flex;
+  justify-content: space-around;
+}
+.boton {
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.fondoInicio{
+  overflow:hidden;
+  height:1800px;
+  background: url("https://raw.githubusercontent.com/Saracas-022/holamundo/main/pngtree-vector-hand-drawn-green-vegetables-catering-gourmet-background-image_153561.jpg") no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #464646;
+  }
+.foto-perfil {
+  border: 1px solid white;
+  border-radius: 200px;
+  width: 30px;
+}
+.foto-perfil-2 {
+  border: 1px solid white;
+  border-radius: 200px;
+  width: 30px;
+}
+.encabezado {
+  margin-top: 20px;
+  color: black;
+}
+.Chat{
+  margin-top: 20px;
+  color: black;
+  }
+
+.black {
+  color: black;
+}
+.Perfil-enlace {
+  color: gray;
+}
+.campo-iniciarS {
+  border: 2px solid #33ff46;
+  margin-top: 4px;
+  border-radius: 4px;
+}
+.campo-registro {
+  border: 2px solid #33ff46;
+  margin-top: 2px;
+  border-radius: 2px;
+}
+.O-contraseña {
+  text-align: center;
+  color: #2ecc3e;
+}
+.titulo-IR {
+  text-align: center;
+}
+.boton-I {
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+  background-color: #14dd28;
+  text-align: right;
+}
+.mensajes_admin {
+  text-align: center;
+}
+.Search {
+  display: flex;
+  border: 1px solid white;
+  border: 2px solid rgb(8, 8, 8);
+  text-align: center;
+  
+
+}
+.Lupa {
+  margin-top: 20px;
+  color: black;
+  justify-content: center;
+  height:300;
+}
+
+.nombre-receta {
+  background-color: #14dd28;
+  padding: 10px;
+}
+.report {
+  background-color: red;
+}
+.public-flex {
+  display: flex;
+  justify-content: space-between;
+}
+.card_mensaje1_admin {
+  border: 2px solid #33ff46;
+}
+.card_mensaje2_admin {
+  border: 2px solid #33ff46;
+  margin-top: 2px;
+  border-radius: 2px;
+}
+.cards{
+  margin-top: 2px;
+  border-radius: 2px;
+  width:150px;
+height:180px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  background-color: #33ff46;
+  padding: 15px;
+}
+.button {
+  border: 1px solid white;
+  background-color: green;
+}
+.icon-p {
+  text-align: center;
+}
+
+
+
+.public-flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+.fotoperfil {
+  display: flex;
+  justify-content: center;
+}
+
+.unotitulo {
+  display: flex;
+  justify-content: center;
+}
+.tituloR {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  background-color: #db0505;
+  padding: 3px;
+  border-radius: 10px;
+  color: rgb(2, 2, 2);
+}
+.boton-mensajes_admin {
+  display: flex;
+  justify-content: center;
+  background-color: #14dd28;
+  text-align: right;
+}
+.boton-reportes_admin {
+  display: flex;
+  justify-content: center;
+  background-color: #14dd28;
+  text-align: right;
+}
+.botonR1 {
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+  background-color: #14dd28;
+  text-align: right;
+}
+.botonR {
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+  background-color: red;
+  text-align: right;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+}
+.sin-reporta {
+  background-color: #14dd28;
+  justify-content: center;
+}
+.navegacion-chat {
+  background-color: #14dd28;
+}
+.devolver-admin {
+  background-color: #14dd28;
+  border: 6px solid #14dd28;
+}
+.administradoras {
+  color: black;
+  text-align: center;
+}
+
+.edit-public {
+  width: 500px;
+  height: 200px;
+}
+.nombredereceta {
+  background-color: #14dd28;
+  padding: 10px;
+}
+.menu {
+  background-color: #14dd28;
+}
+.Perfil-enlace {
+  color: gray;
+}
+.derec {
+  display: flex;
+  align-items: rig;
+}
+.per {
+  display: flex;
+  justify-content: space-evenly;
+}
+.punt {
+  display: flex;
+  justify-content: space-around;
+}
+.boton {
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.foto-perfil {
+  border: 1px solid white;
+  border-radius: 200px;
+  width: 30px;
+}
+.encabezado {
+  margin-top: 20px;
+  color: black;
+}
+.black {
+  color: black;
+}
+.Perfil-enlace {
+  color: gray;
+}
+.campo-iniciarS {
+  border: 2px solid #33ff46;
+  margin-top: 4px;
+  border-radius: 4px;
+}
+.campo-registro {
+  border: 2px solid #33ff46;
+  margin-top: 2px;
+  border-radius: 2px;
+}
+.O-contraseña {
+  text-align: center;
+  color: #2ecc3e;
+}
+.titulo-IR {
+  text-align: center;
+}
+.boton-I {
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+  background-color: #14dd28;
+  text-align: right;
+}
+.mensajes_admin {
+  text-align:left;
+  
+}
+.Busqueda {
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+  background-color: #14dd28;
+  text-align: right;
+  border: 2px solid rgb(8, 8, 8);
+}
+.Lupa {
+  margin-top: 20px;
+  color: black;
+}
+.nombre-receta {
+  background-color: #14dd28;
+  padding: 10px;
+}
+.report {
+  background-color: red;
+}
+.public-flex {
+  display: flex;
+  justify-content: space-between;
+}
+.card_mensaje1_admin {
+  border: 2px solid #33ff46;
+  color:rgb(202, 31, 31);
+  
+  }
+.card_mensaje2_admin {
+  border: 2px solid #33ff46;
+  margin-top: 2px;
+  border-radius: 2px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  background-color: #33ff46;
+  padding: 15px;
+}
+.button {
+  border: 1px solid white;
+  background-color: green;
+}
+
+.icon-p {
+  text-align: center;
+}
+.icono {
+  text-align: center;
+}
+
+.public-flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+.fotoperfil {
+  display: flex;
+  justify-content: center;
+}
+
+.unotitulo {
+  display: flex;
+  justify-content: center;
+}
+.tituloR {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  background-color: #db0505;
+  padding: 3px;
+  border-radius: 10px;
+  color: rgb(2, 2, 2);
+}
+.boton-mensajes_admin {
+  display: flex;
+  justify-content: center;
+  background-color: #14dd28;
+  text-align: right;
+}
+.boton-reportes_admin {
+  display: flex;
+  justify-content: center;
+  background-color: #14dd28;
+  text-align: right;
+}
+.botonR1 {
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+  background-color: #14dd28;
+  text-align: right;
+}
+.Bmenu{
+  background-color: #14dd28;
+  color: rgb(2, 2, 2);
+}
+.botonR {
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+  background-color: red;
+  text-align: right;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+}
+.sin-reporta {
+  background-color: #14dd28;
+  justify-content: center;
+}
+.navegacion-chat {
+  background-color: #14dd28;
+}
+.devolver-admin {
+  background-color: #14dd28;
+  border: 6px solid #14dd28;
+}
+.administradoras {
+  color: black;
+}
+.form-chat{
+  width: 400px;
+  height: 30px;
+}
+.flecha-devolver{
+  width: 80px;
+  height: 30px;
+}
+.mensajes_admin{
+  color: black;
+  justify-content: left; 
+}
+.letra_logo{
+  font-family: 'Lobster', cursive;
+}
